@@ -1,0 +1,360 @@
+case "Set alarm to 10 hours and 0 minutes":
+hrNum = "10:00:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 1 minutes":
+hrNum = "10:01:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 2 minutes":
+hrNum = "10:02:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 3 minutes":
+hrNum = "10:03:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 4 minutes":
+hrNum = "10:04:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 5 minutes":
+hrNum = "10:05:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 6 minutes":
+hrNum = "10:06:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 7 minutes":
+hrNum = "10:07:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 8 minutes":
+hrNum = "10:08:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 9 minutes":
+hrNum = "10:09:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 10 minutes":
+hrNum = "10:10:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 11 minutes":
+hrNum = "10:11:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 12 minutes":
+hrNum = "10:12:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 13 minutes":
+hrNum = "10:13:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 14 minutes":
+hrNum = "10:14:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 15 minutes":
+hrNum = "10:15:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 16 minutes":
+hrNum = "10:16:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 17 minutes":
+hrNum = "10:17:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 18 minutes":
+hrNum = "10:18:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 19 minutes":
+hrNum = "10:19:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 20 minutes":
+hrNum = "10:20:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 21 minutes":
+hrNum = "10:21:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 22 minutes":
+hrNum = "10:22:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 23 minutes":
+hrNum = "10:23:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 24 minutes":
+hrNum = "10:24:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 25 minutes":
+hrNum = "10:25:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 26 minutes":
+hrNum = "10:26:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 27 minutes":
+hrNum = "10:27:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 28 minutes":
+hrNum = "10:28:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 29 minutes":
+hrNum = "10:29:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 30 minutes":
+hrNum = "10:30:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 31 minutes":
+hrNum = "10:31:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 32 minutes":
+hrNum = "10:32:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 33 minutes":
+hrNum = "10:33:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 34 minutes":
+hrNum = "10:34:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 35 minutes":
+hrNum = "10:35:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 36 minutes":
+hrNum = "10:36:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 37 minutes":
+hrNum = "10:37:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 38 minutes":
+hrNum = "10:38:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 39 minutes":
+hrNum = "10:39:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 40 minutes":
+hrNum = "10:40:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 41 minutes":
+hrNum = "10:41:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 42 minutes":
+hrNum = "10:42:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 43 minutes":
+hrNum = "10:43:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 44 minutes":
+hrNum = "10:44:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 45 minutes":
+hrNum = "10:45:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 46 minutes":
+hrNum = "10:46:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 47 minutes":
+hrNum = "10:47:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 48 minutes":
+hrNum = "10:48:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 49 minutes":
+hrNum = "10:49:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 50 minutes":
+hrNum = "10:50:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 51 minutes":
+hrNum = "10:51:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 52 minutes":
+hrNum = "10:52:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 53 minutes":
+hrNum = "10:53:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 54 minutes":
+hrNum = "10:54:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 55 minutes":
+hrNum = "10:55:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 56 minutes":
+hrNum = "10:56:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 57 minutes":
+hrNum = "10:57:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 58 minutes":
+hrNum = "10:58:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
+case "Set alarm to 10 hours and 59 minutes":
+hrNum = "10:59:00";
+lblDesp.Text = hrNum;
+horaDesp.Start();
+break;
+
